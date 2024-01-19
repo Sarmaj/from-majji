@@ -1,1 +1,3 @@
-Sarvani my father name is srinivas rao and nmy mother name is Jagruthi
+# MAJJI SAI TEJA SARVANI
+## ANJANEYA RESTAURANT
+I LIKE **BIRYANI** IN THIS RESTAURANT DUE TO ITS **TASTE** AND **FLAVOUR**.
