@@ -32,6 +32,25 @@ I LIKE **BIRYANI** IN THIS RESTAURANT DUE TO ITS **TASTE** AND **FLAVOUR**.
  *AUTHORNAME-John D. Rockefeller*
  
 
+ ---
+ ## Code Fencing Section
+
+Typescript is the part of modern javascript, the following below code implements a new type based on partial properties of an interface.
+
+
+
+ ```
+ interface MyInterface {
+  id: number;
+  name: string;
+  properties: string[];
+}
+
+type MyShortType = Pick;
+```
+
+Code Link : <https://code.pieces.app/collections/typescript>
+
 
 
 
